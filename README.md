@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayushman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Incoming+CS+@+UofT+🍁;Deep+Learning+and+NLP+Research+💻;Fullstack+Development+👨‍💻&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Incoming+CS+@+UofT+🍁;Deep+Learning+and+NLP+Researcher+💻;Fullstack+Developer+👨‍💻&center=true&width=500&height=45" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 ---
 
-##  Let's Connect
+##  Reach Out
 
 I'm happy to discuss ideas and/or potential collaborations. Feel free to reach out!  
 
