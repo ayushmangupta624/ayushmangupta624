@@ -6,7 +6,7 @@
 
 ---
 
-<h2 style="color:#00FF00;">About Me</h2>
+## 🦥 About Me
 
 - 🎓 I'm an Incoming Freshman @ **The University of Toronto (CS)**
 - ⚙️ I do **Deep Learning** & **NLP** research 
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FC7300?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
-### 🌐 Fullstack Dev
+### 🌐 Fullstack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
