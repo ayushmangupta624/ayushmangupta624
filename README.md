@@ -6,13 +6,13 @@
 
 ---
 
-- 🎓 I'm an incoming Freshman @ **The University of Toronto (CS)**
-- 🤖 I do **Deep Learning** & **NLP** research 
-- 🔧 I also build web apps end-to-end with **Next.js**, **React**, **Tailwind CSS**, and **PostgreSQL**
+- 🎓 I'm an Incoming Freshman @ **The University of Toronto (CS)**
+- ⚙️ I do **Deep Learning** & **NLP** research 
+- 🔧 I build web apps end-to-end 
 
 ---
 
-## 🧠 Research Interests
+## 📄 Research Interests
 
 - NLP & Large Language Models 
 - Representation Learning
@@ -21,13 +21,13 @@
 
 ---
 
-## 🧰 Tech Stack
+## ⌨️ Tech Stacks
 
-### 🧠 Machine Learning / AI
+### 🧠 Deep Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FC7300?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FC7300?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
 ### 🌐 Fullstack Dev
@@ -43,11 +43,20 @@
 
 ---
 
-## 📫 Let's Connect
+## 📈 GitHub Stats
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ayushmangupta371/)  
-- 🧠 Blog/Portfolio (someday)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmangupta624&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmangupta624&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-<details>
+##  Let's Connect
+
+I'm happy to discuss ideas and/or potential collaborations. Feel free to reach out!  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayushmangupta371/)  
+- ✍️ Blog/Portfolio (coming soon)
+
+---
