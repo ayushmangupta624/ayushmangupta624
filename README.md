@@ -1,7 +1,7 @@
-<h1 align="center">Hi👋, I'm Ayushman</h1>
+<h1 align="center">Hi, I'm Ayushman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&lines=Incoming+CS+@+UofT+🍁;Deep+Learning+%2B+NLP+Researcher+🧬;Fullstack+Dev+by+day%2C+Neural+Net+tinkerer+by+night+🌙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Incoming+CS+@+UofT;Deep+Learning+and+NLP+Researcher;Fullstack+Developer&center=true&width=500&height=45" />
 </p>
 
 ---
