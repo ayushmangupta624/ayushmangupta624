@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Incoming+CS+@+UofT+🍁;Deep+Learning+and+NLP+Researcher+💻;Fullstack+Developer+👨‍💻&center=true&width=500&height=45&color=00FF00" />
 </p>
 
----
-
 ## 🦥 About Me
 
 - 🎓 I'm an Incoming Freshman @ **The University of Toronto (CS)**
