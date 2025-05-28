@@ -6,7 +6,7 @@
 
 ---
 
-## 🦕 About Me
+<h2 style="color:#00FF00;">📌 About Me</h2>
 
 - 🎓 I'm an Incoming Freshman @ **The University of Toronto (CS)**
 - ⚙️ I do **Deep Learning** & **NLP** research 
