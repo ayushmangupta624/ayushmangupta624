@@ -15,7 +15,7 @@
 ## 📄 Research Interests
 
 - NLP & Large Language Models 
-- Representation Learning
+- Knowledge Representation 
 - Mechanistic Interpretability 
 - Deep Reinforcement Learning
 
