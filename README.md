@@ -55,15 +55,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushmangupta624&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmangupta624&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 ##  Reach Out
 
 I'm happy to discuss ideas and/or potential collaborations. Feel free to reach out!  
