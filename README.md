@@ -6,7 +6,7 @@
 
 ## 🦥 About Me
 
-- 🎓 I'm an Incoming Freshman @ **The University of Toronto (CS)**
+- 🎓 I'm an Incoming Pearson Scholar @ **The University of Toronto (CS)**
 - ⚙️ I do **Deep Learning** & **NLP** research 
 - 🔧 I build web apps end-to-end 
 
