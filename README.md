@@ -61,6 +61,6 @@ I'm happy to discuss ideas and/or potential collaborations. Feel free to reach o
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ayushmangupta371/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=5Ryo0KAAAAAJ)
-- 🖥️ Website (in development)
+- 🖥️ [Website](https://ayushmangupta.vercel.app/)
 
 ---
