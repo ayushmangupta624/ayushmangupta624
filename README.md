@@ -8,7 +8,7 @@
 
 - 🎓 I'm an Incoming Pearson Scholar @ **The University of Toronto (CS)**
 - ⚙️ I do **Deep Learning** & **NLP** research 
-- 🔧 I build web apps end-to-end 
+- 🔧 I build fullstack web applications
 
 ---
 
