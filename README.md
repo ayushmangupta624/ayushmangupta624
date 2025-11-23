@@ -15,7 +15,6 @@
 ## 📄 Research Interests
 
 - NLP & Large Language Models 
-- Vision 
 - Mechanistic Interpretability 
 - Deep Reinforcement Learning
 
