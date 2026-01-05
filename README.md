@@ -1,35 +1,30 @@
-<h1 align="center">Hi, I'm Ayushman 👋</h1>
+<h1 align="center"> Hi, I'm Ayushman </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS,+Physics,+Math+@+UofT+🍁;Deep+Learning+and+NLP+Research+🧠;Fullstack+Development+🖥️&center=true&width=500&height=45&color=00FF00" />
-</p>
+## About
 
-## 🦥 About Me
-
-- 🎓 I'm a first-year Pearson Scholar @ **The University of Toronto (CS)**
-- ⚙️ I do **Deep Learning** & **NLP** research 
-- 🔧 I build fullstack web applications
+- I'm a first-year Pearson Scholar @ **The University of Toronto**
+- I do **Deep Learning** & **NLP** research 
+- I build fullstack web applications
 
 ---
 
-## 📄 Research Interests
+## Research Interests
 
 - NLP & Large Language Models 
-- Mechanistic Interpretability 
-- Deep Reinforcement Learning
-
+- Mechanistic Interpretability
+- 
 ---
 
-## ⌨️ Tech Stacks
+## Tech Stacks
 
-### 🧠 Deep Learning
+### Deep Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FC7300?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
-### 🌐 Development 
+### Development 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -41,7 +36,7 @@
 </p>
 
 
-### 🖱️ Programming Languages
+### Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -58,8 +53,8 @@
 
 I'm happy to discuss ideas and/or potential collaborations. Feel free to reach out!  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ayushmangupta371/)
-- 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=5Ryo0KAAAAAJ)
-- 🖥️ [Website](https://ayushmangupta.vercel.app/)
-
+- [LinkedIn](https://www.linkedin.com/in/ayushmangupta371/)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=5Ryo0KAAAAAJ)
+- [Website](https://ayushmangupta.vercel.app/)
+  
 ---
