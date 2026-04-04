@@ -2,7 +2,7 @@
 
 ## About
 
-- I'm a first-year Pearson Scholar @ **The University of Toronto**
+- I'm a first-year Lester B. Pearson Scholar @ **The University of Toronto**
 - I do **Deep Learning** & **NLP** research 
 - I build fullstack web applications
 
