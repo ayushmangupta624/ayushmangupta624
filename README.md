@@ -22,7 +22,3 @@ I'm happy to discuss ideas and/or potential collaborations. Feel free to reach o
 - [LinkedIn](https://www.linkedin.com/in/ayushmangupta371/)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=5Ryo0KAAAAAJ)
 - [Website](https://ayushmangupta.vercel.app/)
-
----
-
-[![](https://raw.githubusercontent.com/ayushmangupta624/ayushmangupta624/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
