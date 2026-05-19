@@ -25,4 +25,4 @@ I'm happy to discuss ideas and/or potential collaborations. Feel free to reach o
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushmangupta624)](https://github.com/ayushmangupta624)
+[![](https://raw.githubusercontent.com/ayushmangupta624/ayushmangupta624/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
