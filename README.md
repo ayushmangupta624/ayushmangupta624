@@ -25,12 +25,4 @@ I'm happy to discuss ideas and/or potential collaborations. Feel free to reach o
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushmangupta624&show_icons=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmangupta624" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmangupta624&layout=compact" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmangupta624" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)](https://github.com/YOUR_USERNAME)
