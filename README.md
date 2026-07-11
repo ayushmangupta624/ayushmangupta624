@@ -1,23 +1,6 @@
-<h1 align="center"> Hi, I'm Ayushman </h1>
+I'm Ayushman Gupta, a second-year Lester B. Pearson Scholar at the University of Toronto, where I study Mathematics and Computer Science. I also do AI research, with interest in mechanistic interpretability, generative modelling, and AI for Science. More broadly, I am interested in epistemology, philosophy of science and mind, and cosmology. 
 
-## About
-
-- I'm a Lester B. Pearson Scholar @ **The University of Toronto**
-- I do **Deep Learning** & **NLP** research 
-- I build fullstack web applications
-
----
-
-## Research Interests
-
-- NLP & Large Language Models 
-- Mechanistic Interpretability
-
----
-
-##  Reach Out
-
-I'm happy to discuss ideas and/or potential collaborations. Feel free to reach out!  
+I am currently an SWE intern at [Flagpost AI](https://www.flagpost.ai/)
 
 - [LinkedIn](https://www.linkedin.com/in/ayushmangupta371/)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=5Ryo0KAAAAAJ)
