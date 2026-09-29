@@ -1,4 +1,4 @@
-I'm Ayushman Gupta, a second-year Lester B. Pearson Scholar at the University of Toronto, where I study Mathematics, Computer Science, and Philosophy. I also do AI research, with interest in mechanistic interpretability, generative modelling, and AI for Science. More broadly, I am interested in epistemology, philosophy of science, and philosophy of mind. 
+I'm Ayushman Gupta, a second-year Lester B. Pearson Scholar at the University of Toronto, where I study Mathematics, Computer Science, and Philosophy. I also do AI research, with interest in AI safety and alignment, mechanistic interpretability, and AI4Science. More broadly, I am interested in epistemology, philosophy of science, and philosophy of mind. 
 
 [LinkedIn](https://www.linkedin.com/in/ayushmangupta371/) 
 
